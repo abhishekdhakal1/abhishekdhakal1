@@ -23,6 +23,3 @@ Expected Graduation: **2027**
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekdhakal1)
-
-## Loading Animation
-![Loading](https://media.giphy.com/media/3o7btZQUtnYmT7PBf6/giphy.gif)
