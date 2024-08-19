@@ -10,7 +10,7 @@ Expected Graduation: **2027**
 
 ## Skills
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**: Proficient in building interactive web applications and working with various frameworks and libraries.
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React.js**: Experienced in developing single-page applications and user interfaces with React.
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) **React.js, Express.js & Node.js**: Experienced in developing full-stack applications, integrating front-end with React and back-end with Express and Node.js.
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **C++**: Skilled in object-oriented programming and algorithm design.
 - ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) **C**: Advanced knowledge in system programming, including file handling, data structures, and basic algorithms.
 
