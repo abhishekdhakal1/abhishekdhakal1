@@ -1,21 +1,107 @@
-# 💫 About Me:
-🔭 I’m currently working on Full-Stack Campus Solutions and high-performance MERN applications.<br><br>👯 I’m looking to collaborate on Open Source AI/ML projects and Scalable Web Architectures.<br><br>🤝 I’m looking for help with Mastering Advanced Neural Networks and System Design.<br><br>🌱 I’m currently learning Deep Learning architectures and Generative AI integration in Web Apps.<br><br>💬 Ask me about MERN Stack, ECE core concepts, and why I prefer coding over sleep.<br><br>⚡ Fun fact I can debug code faster than I can decide what to eat for dinner.
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Abhishek%20Dhakal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Software%20Architect&descAlignY=51&descSize=20" 
+    alt="Creative Header" 
+  />
+</p>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/avishekdhakal.26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek_dhakal__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekdhakal1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekdhakal1826@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishekdhakal1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhishekdhakal1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhakal1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhishekdhakal1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abhishek+Dhakal;Electronics+Engineer+%7C+Full-Stack+Developer;AI+%26+System+Design+Enthusiast;Building+Scalable+Intelligent+Systems" 
+  />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhishekdhakal1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://linkedin.com/in/abhishekdhakal1">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
+  </a>
+  <a href="mailto:abhishekdhakal1826@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png"/>
+  </a>
+  <a href="https://instagram.com/abhishek_dhakal__">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+  </a>
+  <a href="https://facebook.com/avishekdhakal.26">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=F7A41D&center=true&width=900&lines=Full-Stack+Campus+Solutions+%7C+High-Performance+MERN+Apps;Open+Source+AI%2FML+Contributor+%7C+Scalable+Architectures;Learning+Deep+Learning+%26+Generative+AI+for+Web;Ask+me+about+MERN%2C+ECE%2C+and+System+Design" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,vue,nodejs,express,mongodb,aws,docker,linux&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhakal1&layout=donut&theme=radical&hide_border=true" 
+    width="45%" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abhishekdhakal1&show_icons=true&theme=radical&hide_border=true" 
+    width="48%" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=abhishekdhakal1&theme=radical&hide_border=true" 
+    width="48%" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekdhakal1/abhishekdhakal1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekdhakal1/abhishekdhakal1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekdhakal1/abhishekdhakal1/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=abhishekdhakal1&limit=5&theme=radical&combine_all_yearly_contributions=true" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://visitcount.itsvg.in/api?id=abhishekdhakal1&icon=5&color=12" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F75C7E&center=true&width=800&lines=Building+at+the+Intersection+of+Electronics+%26+Software;Turning+Ideas+into+Scalable+Intelligent+Systems" 
+  />
+</p>
