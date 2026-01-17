@@ -88,10 +88,10 @@ const abhishek = {
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishekdhakal1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekdhakal1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdhakal1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhakal1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekdhakal1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekdhakal1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
 </div>
@@ -181,6 +181,7 @@ Scalable backend architectures with optimized database queries and caching strat
 <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=abhishekdhakal1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&range=last_7_days&v=3" />
 
 </div>
+
 ---
 
 <div align="center">
