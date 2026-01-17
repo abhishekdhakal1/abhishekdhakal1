@@ -99,11 +99,8 @@ const abhishek = {
 ---
 
 <div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekdhakal1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekdhakal1&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekdhakal1&theme=tokyonight" width="45%" />
 </div>
 
 ---
