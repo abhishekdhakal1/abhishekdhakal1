@@ -178,13 +178,9 @@ Scalable backend architectures with optimized database queries and caching strat
 
 ## 📈 Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhishekdhakal1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" />
+<img width="100%" src="https://github-readme-stats-two.vercel.app/api/wakatime?username=abhishekdhakal1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" />
 
 </div>
-
 ---
 
 <div align="center">
